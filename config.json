@@ -1,13 +1,13 @@
 {
-    "sitename":"胴体の秘密",
+    "sitename": "胴体の秘密",
     "allowlist": [
         "www.dongti.me",
         "a.dongti.me",
         "b.dongti.me",
-        "c.dongti.me",
+        "c.dongti.me"
     ],
     "backTo": {
-        "url": "https:/www.dongti.me/",
+        "url": "https://www.dongti.me/",
         "sitename": "胴体の秘密"
     }
 }
