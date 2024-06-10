@@ -1,10 +1,13 @@
 {
     "sitename":"pai233の小站",
     "allowlist": [
-        "pai233.top"
+        "www.dongti.me"
+        "a.dongti.me"
+        "b.dongti.me"
+        c.dongti.me"
     ],
     "backTo": {
-        "url": "https://blog.pai233.top/",
-        "sitename": "pai233の小窝"
+        "url": "https:/www.dongti.me/",
+        "sitename": "胴体の秘密"
     }
 }
